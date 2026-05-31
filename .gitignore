@@ -27,7 +27,7 @@ __pycache__/
 # =========================
 outputs/
 *.parquet
-*.csv
+#*.csv
 *.xlsx
 
 # Keep this commented if you want to upload processed CSV results
