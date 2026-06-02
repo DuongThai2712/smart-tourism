@@ -1,0 +1,412 @@
+city,cat_A,cat_B,freq
+Athens,Museum,Museum,6284
+Athens,Museum,Historical,1811
+Athens,Historical,Museum,1785
+Athens,Education,Museum,316
+Athens,Historical,Historical,308
+Athens,Museum,Education,208
+Athens,Park,Museum,137
+Athens,Education,Historical,123
+Athens,Historical,Education,98
+Athens,Museum,Park,96
+Athens,Historical,Park,2
+Barcelona,Museum,Museum,1204
+Barcelona,Shopping,Museum,310
+Barcelona,Museum,Shopping,231
+Barcelona,Zoo,Museum,98
+Barcelona,Education,Museum,62
+Barcelona,Museum,Zoo,42
+Barcelona,Zoo,Shopping,29
+Barcelona,Shopping,Zoo,26
+Barcelona,Education,Shopping,25
+Barcelona,Historical,Museum,12
+Barcelona,Museum,Historical,12
+Barcelona,Museum,Education,11
+Barcelona,Shopping,Education,11
+Barcelona,Park,Museum,6
+Barcelona,Museum,Park,6
+Barcelona,Museum,Sport,4
+Barcelona,Shopping,Sport,4
+Barcelona,Sport,Museum,4
+Barcelona,Shopping,Shopping,3
+Barcelona,Shopping,Historical,2
+Barcelona,Historical,Park,2
+Budapest,Park,Park,388
+Budapest,Cultural,Cultural,365
+Budapest,Park,Transport,310
+Budapest,Museum,Museum,280
+Budapest,Transport,Shopping,271
+Budapest,Transport,Transport,252
+Budapest,Museum,Cultural,245
+Budapest,Transport,Park,240
+Budapest,Historical,Cultural,237
+Budapest,Shopping,Transport,230
+Budapest,Cultural,Historical,224
+Budapest,Cultural,Museum,224
+Budapest,Museum,Shopping,220
+Budapest,Museum,Transport,209
+Budapest,Cultural,Shopping,206
+Budapest,Museum,Historical,199
+Budapest,Historical,Museum,193
+Budapest,Park,Shopping,192
+Budapest,Historical,Park,182
+Budapest,Park,Cultural,178
+Budapest,Historical,Historical,165
+Budapest,Shopping,Cultural,165
+Budapest,Transport,Museum,163
+Budapest,Park,Historical,159
+Budapest,Cultural,Park,159
+Budapest,Historical,Shopping,151
+Budapest,Shopping,Museum,151
+Budapest,Museum,Park,130
+Budapest,Shopping,Park,127
+Budapest,Park,Museum,123
+Budapest,Historical,Transport,121
+Budapest,Transport,Cultural,114
+Budapest,Shopping,Historical,103
+Budapest,Transport,Historical,100
+Budapest,Cultural,Transport,88
+Budapest,Shopping,Shopping,86
+Edinburgh,Structure,Structure,2916
+Edinburgh,Historical,Structure,1429
+Edinburgh,Structure,Cultural,1300
+Edinburgh,Cultural,Structure,1273
+Edinburgh,Structure,Historical,1138
+Edinburgh,Structure,Museum,1104
+Edinburgh,Museum,Structure,916
+Edinburgh,Park,Structure,710
+Edinburgh,Structure,Park,514
+Edinburgh,Historical,Cultural,478
+Edinburgh,Historical,Museum,434
+Edinburgh,Cultural,Museum,406
+Edinburgh,Cultural,Historical,371
+Edinburgh,Museum,Cultural,366
+Edinburgh,Entertainment,Structure,330
+Edinburgh,Cultural,Cultural,306
+Edinburgh,Museum,Historical,286
+Edinburgh,Historical,Historical,285
+Edinburgh,Park,Historical,263
+Edinburgh,Historical,Park,233
+Edinburgh,Park,Cultural,224
+Edinburgh,Park,Museum,221
+Edinburgh,Structure,Entertainment,162
+Edinburgh,Cultural,Park,162
+Edinburgh,Museum,Museum,155
+Edinburgh,Museum,Park,136
+Edinburgh,Entertainment,Cultural,102
+Edinburgh,Entertainment,Historical,101
+Edinburgh,Historical,Entertainment,78
+Edinburgh,Entertainment,Museum,78
+Edinburgh,Cultural,Entertainment,44
+Edinburgh,Museum,Entertainment,25
+Edinburgh,Park,Park,25
+Edinburgh,Park,Entertainment,7
+Edinburgh,Entertainment,Park,6
+Glasgow,Education,Structure,368
+Glasgow,Structure,Education,345
+Glasgow,Education,Education,308
+Glasgow,Education,Transport,258
+Glasgow,Transport,Structure,241
+Glasgow,Transport,Education,221
+Glasgow,Structure,Transport,220
+Glasgow,Structure,Structure,209
+Glasgow,Education,Museum,196
+Glasgow,Education,Shopping,182
+Glasgow,Museum,Education,151
+Glasgow,Structure,Museum,136
+Glasgow,Structure,Shopping,136
+Glasgow,Shopping,Education,127
+Glasgow,Transport,Shopping,126
+Glasgow,Transport,Museum,124
+Glasgow,Transport,Transport,121
+Glasgow,Shopping,Structure,112
+Glasgow,Museum,Structure,106
+Glasgow,Museum,Transport,101
+Glasgow,Shopping,Transport,100
+Glasgow,Religion,Education,96
+Glasgow,Religion,Transport,93
+Glasgow,Shopping,Museum,76
+Glasgow,Museum,Shopping,76
+Glasgow,Religion,Structure,64
+Glasgow,Religion,Shopping,54
+Glasgow,Religion,Museum,51
+Glasgow,Museum,Museum,37
+Glasgow,Education,Religion,33
+Glasgow,Park,Transport,21
+Glasgow,Park,Museum,20
+Glasgow,Park,Shopping,20
+Glasgow,Transport,Religion,16
+Glasgow,Shopping,Religion,12
+Glasgow,Park,Religion,12
+Glasgow,Museum,Religion,8
+Glasgow,Structure,Religion,5
+Glasgow,Park,Education,2
+London,Entertainment,Entertainment,120
+London,Museum,Museum,84
+London,Entertainment,Shopping,64
+London,Shopping,Entertainment,64
+London,Museum,Entertainment,60
+London,Shopping,Shopping,48
+London,Entertainment,Museum,44
+London,Museum,Shopping,42
+London,Precinct,Entertainment,40
+London,Entertainment,Precinct,36
+London,Park,Museum,32
+London,Shopping,Museum,24
+London,Palace,Museum,24
+London,Museum,Precinct,20
+London,Precinct,Museum,20
+London,Historical,Transport,15
+London,Transport,Historical,14
+London,Historical,Entertainment,8
+London,Precinct,Shopping,8
+London,Transport,Building,8
+London,Zoo,Park,8
+London,Museum,Park,8
+London,Transport,Entertainment,8
+London,Shopping,Precinct,8
+London,Entertainment,Transport,5
+London,Museum,Historical,4
+London,Building,Historical,4
+London,Museum,Transport,4
+London,Building,Transport,4
+London,Zoo,Museum,4
+London,Historical,Building,2
+London,Transport,Transport,2
+London,Museum,Building,2
+Madrid,Museum,Museum,3101
+Madrid,Palace,Museum,360
+Madrid,Museum,Historical,280
+Madrid,Museum,Palace,260
+Madrid,Historical,Museum,238
+Madrid,Museum,Shopping,230
+Madrid,Shopping,Museum,206
+Madrid,Transport,Museum,179
+Madrid,Park,Museum,176
+Madrid,Museum,Park,113
+Madrid,Museum,Transport,103
+Madrid,Palace,Shopping,80
+Madrid,Palace,Historical,78
+Madrid,Palace,Palace,72
+Madrid,Shopping,Historical,65
+Madrid,Shopping,Palace,60
+Madrid,Historical,Shopping,60
+Madrid,Historical,Palace,54
+Madrid,Palace,Park,36
+Madrid,Park,Palace,30
+Madrid,Transport,Park,13
+Madrid,Park,Transport,13
+Madrid,Palace,Transport,10
+Madrid,Transport,Historical,6
+Madrid,Transport,Palace,4
+Madrid,Transport,Shopping,4
+Madrid,Park,Historical,1
+Melbourne,Shopping,Shopping,23344
+Melbourne,Institutions,Shopping,14646
+Melbourne,Shopping,Institutions,12633
+Melbourne,Parks and spaces,Shopping,11024
+Melbourne,Shopping,Parks and spaces,9031
+Melbourne,Parks and spaces,Institutions,7492
+Melbourne,Institutions,Parks and spaces,7410
+Melbourne,Institutions,Institutions,7210
+Melbourne,Structures,Shopping,7007
+Melbourne,Parks and spaces,Parks and spaces,6455
+Melbourne,Transport,Shopping,6343
+Melbourne,Shopping,Transport,5750
+Melbourne,City precincts,Shopping,5567
+Melbourne,Shopping,Structures,5452
+Melbourne,Structures,Parks and spaces,4372
+Melbourne,Institutions,Structures,4345
+Melbourne,Structures,Institutions,4337
+Melbourne,Parks and spaces,Structures,4275
+Melbourne,Shopping,City precincts,3764
+Melbourne,Institutions,Transport,3711
+Melbourne,Parks and spaces,Transport,3435
+Melbourne,Sports stadiums,Parks and spaces,3401
+Melbourne,City precincts,Institutions,3291
+Melbourne,Transport,Institutions,3118
+Melbourne,City precincts,Parks and spaces,3053
+Melbourne,Transport,Parks and spaces,2840
+Melbourne,Sports stadiums,Sports stadiums,2769
+Melbourne,Institutions,City precincts,2768
+Melbourne,Parks and spaces,City precincts,2752
+Melbourne,Structures,Transport,2248
+Melbourne,Entertainment,Shopping,2245
+Melbourne,Parks and spaces,Sports stadiums,2178
+Melbourne,Structures,Structures,2035
+Melbourne,Public galleries,Shopping,1987
+Melbourne,City precincts,Structures,1801
+Melbourne,Transport,Structures,1796
+Melbourne,Sports stadiums,Shopping,1761
+Melbourne,Sports stadiums,Institutions,1738
+Melbourne,Structures,City precincts,1537
+Melbourne,Public galleries,Parks and spaces,1519
+Melbourne,City precincts,Transport,1496
+Melbourne,Shopping,Entertainment,1287
+Melbourne,Institutions,Sports stadiums,1179
+Melbourne,Parks and spaces,Public galleries,1160
+Melbourne,Sports stadiums,Structures,1094
+Melbourne,Public galleries,Institutions,1091
+Melbourne,Public galleries,Structures,1026
+Melbourne,Shopping,Public galleries,1019
+Melbourne,Entertainment,Parks and spaces,1013
+Melbourne,Transport,City precincts,974
+Melbourne,Transport,Transport,964
+Melbourne,Sports stadiums,Transport,963
+Melbourne,Entertainment,Structures,950
+Melbourne,Institutions,Public galleries,932
+Melbourne,Structures,Public galleries,928
+Melbourne,Entertainment,Institutions,862
+Melbourne,Structures,Entertainment,826
+Melbourne,Sports stadiums,City precincts,810
+Melbourne,Public galleries,Transport,770
+Melbourne,Entertainment,Transport,755
+Melbourne,City precincts,City precincts,640
+Melbourne,Parks and spaces,Entertainment,638
+Melbourne,Transport,Entertainment,619
+Melbourne,Public galleries,City precincts,613
+Melbourne,City precincts,Sports stadiums,601
+Melbourne,City precincts,Public galleries,510
+Melbourne,Institutions,Entertainment,501
+Melbourne,Transport,Public galleries,499
+Melbourne,Structures,Sports stadiums,458
+Melbourne,Shopping,Sports stadiums,402
+Melbourne,City precincts,Entertainment,326
+Melbourne,Transport,Sports stadiums,318
+Melbourne,Entertainment,Entertainment,315
+Melbourne,Sports stadiums,Public galleries,286
+Melbourne,Entertainment,Public galleries,255
+Melbourne,Public galleries,Public galleries,241
+Melbourne,Public galleries,Entertainment,234
+Melbourne,Entertainment,City precincts,230
+Melbourne,Public galleries,Sports stadiums,176
+Melbourne,Sports stadiums,Entertainment,36
+Melbourne,Entertainment,Sports stadiums,25
+NewDelhi,Precinct,Religious,4
+NewDelhi,Park,Architectural,4
+NewDelhi,Architectural,Religious,4
+NewDelhi,Religious,Architectural,4
+Osaka,Entertainment,Entertainment,86
+Osaka,Amusement,Entertainment,28
+Osaka,Park,Entertainment,22
+Osaka,Historical,Entertainment,16
+Osaka,Entertainment,Amusement,16
+Osaka,Park,Amusement,10
+Osaka,Park,Historical,8
+Osaka,Entertainment,Park,8
+Osaka,Amusement,Park,6
+Osaka,Historical,Amusement,6
+Osaka,Historical,Park,6
+Osaka,Amusement,Historical,5
+Osaka,Entertainment,Historical,5
+Osaka,Amusement,Amusement,4
+Perth,Transport,Transport,514
+Perth,Park,Transport,500
+Perth,Structure,Transport,434
+Perth,Transport,Park,393
+Perth,Transport,Cultural,373
+Perth,Transport,Structure,347
+Perth,Cultural,Transport,324
+Perth,Park,Cultural,304
+Perth,Entertainment,Transport,252
+Perth,Park,Structure,245
+Perth,Structure,Cultural,243
+Perth,Structure,Park,234
+Perth,Cultural,Structure,219
+Perth,Cultural,Park,189
+Perth,Transport,Entertainment,155
+Perth,Park,Park,153
+Perth,Entertainment,Park,151
+Perth,Entertainment,Cultural,150
+Perth,Entertainment,Structure,136
+Perth,Cultural,Cultural,117
+Perth,Park,Entertainment,116
+Perth,Precinct,Transport,116
+Perth,Structure,Structure,107
+Perth,Structure,Entertainment,100
+Perth,Precinct,Cultural,98
+Perth,Cultural,Entertainment,92
+Perth,Transport,Precinct,80
+Perth,Park,Precinct,76
+Perth,Precinct,Structure,72
+Perth,Precinct,Park,68
+Perth,Sport,Cultural,57
+Perth,Structure,Precinct,52
+Perth,Cultural,Precinct,49
+Perth,Precinct,Entertainment,39
+Perth,Sport,Structure,36
+Perth,Entertainment,Precinct,25
+Perth,Sport,Transport,16
+Perth,Sport,Park,8
+Perth,Sport,Precinct,4
+Perth,Sport,Entertainment,2
+Toronto,Cultural,Structure,150
+Toronto,Structure,Cultural,130
+Toronto,Sport,Cultural,128
+Toronto,Cultural,Sport,124
+Toronto,Beach,Structure,113
+Toronto,Shopping,Cultural,113
+Toronto,Sport,Structure,102
+Toronto,Structure,Beach,101
+Toronto,Shopping,Structure,96
+Toronto,Cultural,Shopping,95
+Toronto,Beach,Cultural,90
+Toronto,Structure,Sport,88
+Toronto,Shopping,Sport,82
+Toronto,Structure,Shopping,82
+Toronto,Sport,Shopping,78
+Toronto,Shopping,Beach,74
+Toronto,Cultural,Beach,73
+Toronto,Cultural,Amusement,72
+Toronto,Cultural,Cultural,71
+Toronto,Sport,Amusement,68
+Toronto,Amusement,Sport,68
+Toronto,Amusement,Cultural,68
+Toronto,Beach,Shopping,67
+Toronto,Beach,Sport,54
+Toronto,Sport,Sport,52
+Toronto,Structure,Structure,47
+Toronto,Sport,Beach,46
+Toronto,Amusement,Structure,42
+Toronto,Beach,Beach,40
+Toronto,Structure,Amusement,32
+Toronto,Amusement,Shopping,28
+Toronto,Shopping,Amusement,28
+Toronto,Beach,Amusement,16
+Toronto,Amusement,Amusement,8
+Toronto,Amusement,Beach,6
+Vienna,Museum,Museum,2499
+Vienna,Historical,Museum,2249
+Vienna,Museum,Historical,2199
+Vienna,Historical,Historical,1376
+Vienna,Museum,Entertainment,482
+Vienna,Museum,Palace,461
+Vienna,Palace,Museum,430
+Vienna,Entertainment,Museum,422
+Vienna,Historical,Entertainment,359
+Vienna,Historical,Palace,354
+Vienna,Palace,Historical,322
+Vienna,Cultural,Museum,315
+Vienna,Entertainment,Historical,293
+Vienna,Cultural,Historical,241
+Vienna,Zoo,Museum,233
+Vienna,Museum,Cultural,229
+Vienna,Historical,Cultural,209
+Vienna,Zoo,Historical,105
+Vienna,Palace,Entertainment,64
+Vienna,Entertainment,Palace,64
+Vienna,Cultural,Entertainment,59
+Vienna,Cultural,Palace,52
+Vienna,Zoo,Palace,45
+Vienna,Entertainment,Cultural,39
+Vienna,Museum,Zoo,36
+Vienna,Palace,Cultural,35
+Vienna,Zoo,Park,24
+Vienna,Park,Park,24
+Vienna,Park,Zoo,20
+Vienna,Zoo,Entertainment,18
+Vienna,Palace,Park,16
+Vienna,Park,Palace,16
+Vienna,Museum,Park,16
+Vienna,Palace,Zoo,8
+Vienna,Historical,Zoo,2

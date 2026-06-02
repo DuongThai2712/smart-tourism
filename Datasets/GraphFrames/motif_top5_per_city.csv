@@ -1,0 +1,66 @@
+city,city_rank,poi_A,poi_B,poi_C,cat_A,cat_B,cat_C,total_travel_min
+Athens,1,Old_Parliament,National_Historical_Museum,Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation,Museum,Museum,Museum,3.42
+Athens,2,Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation,National_Historical_Museum,Old_Parliament,Museum,Museum,Museum,3.42
+Athens,3,Old_Parliament,National_Historical_Museum,Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation,Museum,Museum,Museum,3.43
+Athens,4,Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation,National_Historical_Museum,Old_Parliament,Museum,Museum,Museum,3.43
+Athens,5,Numismatic_Museum_of_Athens,National_Historical_Museum,Old_Parliament,Museum,Museum,Museum,3.75
+Barcelona,1,El_Born_Centre_Cultural,Picasso_Museum,Museum_of_the_History_of_Barcelona,Museum,Museum,Museum,8.62
+Barcelona,2,Museum_of_the_History_of_Barcelona,Picasso_Museum,El_Born_Centre_Cultural,Museum,Museum,Museum,8.62
+Barcelona,3,Museum_of_the_History_of_Barcelona,Picasso_Museum,El_Born_Centre_Cultural,Museum,Museum,Museum,8.63
+Barcelona,4,El_Born_Centre_Cultural,Picasso_Museum,Museum_of_the_History_of_Barcelona,Museum,Museum,Museum,8.63
+Barcelona,5,El_Born_Centre_Cultural,Picasso_Museum,Museum_of_the_History_of_Barcelona,Museum,Museum,Museum,9.12
+Budapest,1,Sz%C3%A9chenyi_Chain_Bridge,Erzs%C3%A9bet_Bridge,Liberty_Bridge_(Budapest),Transport,Transport,Transport,7.25
+Budapest,2,Liberty_Bridge_(Budapest),Erzs%C3%A9bet_Bridge,Sz%C3%A9chenyi_Chain_Bridge,Transport,Transport,Transport,7.25
+Budapest,3,Sz%C3%A9chenyi_Chain_Bridge,Erzs%C3%A9bet_Bridge,Great_Market_Hall_(Budapest),Transport,Transport,Shopping,7.47
+Budapest,4,Great_Market_Hall_(Budapest),Erzs%C3%A9bet_Bridge,Sz%C3%A9chenyi_Chain_Bridge,Shopping,Transport,Transport,7.47
+Budapest,5,Erzs%C3%A9bet_Bridge,Sz%C3%A9chenyi_Chain_Bridge,Liberty_Bridge_(Budapest),Transport,Transport,Transport,8.5
+Edinburgh,1,New_College_Edinburgh,Scottish_National_Gallery,Royal_Scottish_Academy_Building,Structure,Museum,Structure,3.22
+Edinburgh,2,Royal_Scottish_Academy_Building,Scottish_National_Gallery,New_College_Edinburgh,Structure,Museum,Structure,3.22
+Edinburgh,3,New_College_Edinburgh,Scottish_National_Gallery,Royal_Scottish_Academy_Building,Structure,Museum,Structure,3.5
+Edinburgh,4,Royal_Scottish_Academy_Building,Scottish_National_Gallery,New_College_Edinburgh,Structure,Museum,Structure,3.5
+Edinburgh,5,New_College_Edinburgh,Scottish_National_Gallery,Royal_Scottish_Academy_Building,Structure,Museum,Structure,3.57
+Glasgow,1,Royal_Scottish_Academy_of_Music_and_Drama,Buchanan_Street,Gallery_of_Modern_Art,Education,Shopping,Museum,5.72
+Glasgow,2,Gallery_of_Modern_Art,Buchanan_Street,Royal_Scottish_Academy_of_Music_and_Drama,Museum,Shopping,Education,5.72
+Glasgow,3,Royal_Scottish_Academy_of_Music_and_Drama,Buchanan_Street,Gallery_of_Modern_Art,Education,Shopping,Museum,5.78
+Glasgow,4,Gallery_of_Modern_Art,Buchanan_Street,Royal_Scottish_Academy_of_Music_and_Drama,Museum,Shopping,Education,5.78
+Glasgow,5,Glasgow_Royal_Concert_Hall,Buchanan_Street,Gallery_of_Modern_Art,Structure,Shopping,Museum,5.95
+London,1,Natural_History_Museum,Victoria_and_Albert_Museum,Science_Museum,Museum,Museum,Museum,8.47
+London,2,Science_Museum,Victoria_and_Albert_Museum,Natural_History_Museum,Museum,Museum,Museum,8.47
+London,3,Natural_History_Museum,Victoria_and_Albert_Museum,Science_Museum,Museum,Museum,Museum,8.63
+London,4,Science_Museum,Victoria_and_Albert_Museum,Natural_History_Museum,Museum,Museum,Museum,8.63
+London,5,Science_Museum,Victoria_and_Albert_Museum,Natural_History_Museum,Museum,Museum,Museum,8.67
+Madrid,1,Casita-_Museo_de_Raton_Perez,Plaza_Mayor,San_Miguel_Market,Museum,Historical,Shopping,6.4
+Madrid,2,San_Miguel_Market,Plaza_Mayor,Casita-_Museo_de_Raton_Perez,Shopping,Historical,Museum,6.4
+Madrid,3,San_Miguel_Market,Plaza_Mayor,Casita-_Museo_de_Raton_Perez,Shopping,Historical,Museum,6.6
+Madrid,4,Casita-_Museo_de_Raton_Perez,Plaza_Mayor,San_Miguel_Market,Museum,Historical,Shopping,6.6
+Madrid,5,Casita-_Museo_de_Raton_Perez,Plaza_Mayor,San_Miguel_Market,Museum,Historical,Shopping,6.87
+Melbourne,1,Centre Place,Flinders Lane,Degraves Street,Shopping,Shopping,Shopping,1.32
+Melbourne,2,Degraves Street,Flinders Lane,Centre Place,Shopping,Shopping,Shopping,1.32
+Melbourne,3,Degraves Street,Flinders Lane,Centre Place,Shopping,Shopping,Shopping,1.37
+Melbourne,4,Centre Place,Flinders Lane,Degraves Street,Shopping,Shopping,Shopping,1.37
+Melbourne,5,Centre Place,Flinders Lane,Degraves Street,Shopping,Shopping,Shopping,1.38
+NewDelhi,1,Gurdwara_Bangla_Sahib,Jantar_Mantar_(Delhi),Connaught_Place_New_Delhi,Religious,Architectural,Park,25.17
+NewDelhi,2,Connaught_Place_New_Delhi,Jantar_Mantar_(Delhi),Gurdwara_Bangla_Sahib,Park,Architectural,Religious,25.17
+NewDelhi,3,Gurdwara_Bangla_Sahib,Jantar_Mantar_(Delhi),Connaught_Place_New_Delhi,Religious,Architectural,Park,25.18
+NewDelhi,4,Connaught_Place_New_Delhi,Jantar_Mantar_(Delhi),Gurdwara_Bangla_Sahib,Park,Architectural,Religious,25.18
+NewDelhi,5,Gurdwara_Bangla_Sahib,Jantar_Mantar_(Delhi),Connaught_Place_New_Delhi,Religious,Architectural,Park,25.23
+Osaka,1,Namba,Shinsaibashi,Amerikamura,Entertainment,Entertainment,Entertainment,10.9
+Osaka,2,Amerikamura,Shinsaibashi,Namba,Entertainment,Entertainment,Entertainment,10.9
+Osaka,3,Amerikamura,Shinsaibashi,Namba,Entertainment,Entertainment,Entertainment,10.95
+Osaka,4,Namba,Shinsaibashi,Amerikamura,Entertainment,Entertainment,Entertainment,10.95
+Osaka,5,Namba,Shinsaibashi,Amerikamura,Entertainment,Entertainment,Entertainment,11.02
+Perth,1,Perth_railway_station,Western_Australian_Museum,Art_Gallery_of_Western_Australia,Transport,Cultural,Cultural,6.3
+Perth,2,Art_Gallery_of_Western_Australia,Western_Australian_Museum,Perth_railway_station,Cultural,Cultural,Transport,6.3
+Perth,3,Perth_railway_station,Western_Australian_Museum,Art_Gallery_of_Western_Australia,Transport,Cultural,Cultural,6.35
+Perth,4,Art_Gallery_of_Western_Australia,Western_Australian_Museum,Perth_railway_station,Cultural,Cultural,Transport,6.35
+Perth,5,State_Library_of_Western_Australia,Western_Australian_Museum,Perth_railway_station,Structure,Cultural,Transport,6.87
+Toronto,1,Canadian_National_Exhibition,Exhibition_Place,BMO_Field,Amusement,Amusement,Sport,5.08
+Toronto,2,BMO_Field,Exhibition_Place,Canadian_National_Exhibition,Sport,Amusement,Amusement,5.08
+Toronto,3,BMO_Field,Exhibition_Place,Canadian_National_Exhibition,Sport,Amusement,Amusement,5.12
+Toronto,4,Canadian_National_Exhibition,Exhibition_Place,BMO_Field,Amusement,Amusement,Sport,5.12
+Toronto,5,Canadian_National_Exhibition,Exhibition_Place,BMO_Field,Amusement,Amusement,Sport,5.17
+Vienna,1,Spanish_Riding_School,Schatzkammer_(Vienna),Hofburg_Palace,Entertainment,Museum,Palace,3.67
+Vienna,2,Hofburg_Palace,Schatzkammer_(Vienna),Spanish_Riding_School,Palace,Museum,Entertainment,3.67
+Vienna,3,Hofburg_Palace,Schatzkammer_(Vienna),Spanish_Riding_School,Palace,Museum,Entertainment,3.7
+Vienna,4,Spanish_Riding_School,Schatzkammer_(Vienna),Hofburg_Palace,Entertainment,Museum,Palace,3.7
+Vienna,5,Spanish_Riding_School,Schatzkammer_(Vienna),Hofburg_Palace,Entertainment,Museum,Palace,3.73
