@@ -4032,9 +4032,9 @@ Melbourne,57608438@N08,3,Melbourne_87,Yarra River,1,0.5,30.0
 Melbourne,57768536@N05,1,Melbourne_79|Melbourne_75,Yarra Park → Queen Victoria Gardens,2,0.994,79.6
 Melbourne,57768536@N05,2,Melbourne_75|Melbourne_79,Queen Victoria Gardens → Yarra Park,2,0.994,79.9
 Melbourne,57768536@N05,3,Melbourne_79,Yarra Park,1,0.497,4.1
-Melbourne,57841116@N03,1,Melbourne_61|Melbourne_62|Melbourne_60|Melbourne_79,National Ice Sports Centre (O'Brien Group Arena) → Olympic Park Stadium → Lakeside Stadium → Yarra Park,4,3.198,474.1
-Melbourne,57841116@N03,2,Melbourne_61|Melbourne_62|Melbourne_79|Melbourne_60,National Ice Sports Centre (O'Brien Group Arena) → Olympic Park Stadium → Yarra Park → Lakeside Stadium,4,3.198,443.0
-Melbourne,57841116@N03,3,Melbourne_61|Melbourne_62|Melbourne_75|Melbourne_60,National Ice Sports Centre (O'Brien Group Arena) → Olympic Park Stadium → Queen Victoria Gardens → Lakeside Stadium,4,3.198,477.6
+Melbourne,57841116@N03,1,Melbourne_62|Melbourne_60|Melbourne_79|Melbourne_61,Olympic Park Stadium → Lakeside Stadium → Yarra Park → National Ice Sports Centre (O'Brien Group Arena),4,3.198,472.3
+Melbourne,57841116@N03,2,Melbourne_62|Melbourne_79|Melbourne_61|Melbourne_60,Olympic Park Stadium → Yarra Park → National Ice Sports Centre (O'Brien Group Arena) → Lakeside Stadium,4,3.198,453.2
+Melbourne,57841116@N03,3,Melbourne_62|Melbourne_79|Melbourne_60|Melbourne_61,Olympic Park Stadium → Yarra Park → Lakeside Stadium → National Ice Sports Centre (O'Brien Group Arena),4,3.198,433.6
 Melbourne,58085609@N00,1,Melbourne_87,Yarra River,1,0.0008,30.0
 Melbourne,58085609@N00,2,Melbourne_83,Melbourne Airport,1,0.0008,30.0
 Melbourne,58196392@N00,1,Melbourne_61|Melbourne_62|Melbourne_60,National Ice Sports Centre (O'Brien Group Arena) → Olympic Park Stadium → Lakeside Stadium,3,1.494,419.0
