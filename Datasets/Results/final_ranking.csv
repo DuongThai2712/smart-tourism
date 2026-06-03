@@ -1,0 +1,13 @@
+model,prompt_strategy,recall,precision,f_score,ae,ue,composite_score
+gemini-3.1-flash-lite,cot,0.0,0.0,0.0,0.0,0.0,0.0
+gemini-3.1-flash-lite,few_shot,0.0,0.0,0.0,0.0,0.0,0.0
+gemini-3.1-flash-lite,retrieval_aware,0.0,0.0,0.0,0.0,0.0,0.0
+gemini-3.1-flash-lite,zero_shot,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5.4-nano,cot,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5.4-nano,few_shot,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5.4-nano,retrieval_aware,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5.4-nano,zero_shot,0.0,0.0,0.0,0.0,0.0,0.0
+llama3.1:8b,cot,0.0024,0.005,0.0032,0.0,0.0,0.0013
+llama3.1:8b,few_shot,0.0,0.0,0.0,0.0,0.0,0.0
+llama3.1:8b,retrieval_aware,0.0025,0.0017,0.002,0.0,0.0,0.0008
+llama3.1:8b,zero_shot,0.0,0.0,0.0,0.0,0.0,0.0
